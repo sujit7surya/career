@@ -1,0 +1,26 @@
+title,provider,duration,prerequisites,skill_tags,level,link
+Python for Beginners,Coursera,4 weeks,None,"python, programming basics",beginner,https://example.com/python-beg
+Intro to SQL,Udemy,3 weeks,None,"sql, databases, querying",beginner,https://example.com/sql-intro
+Web Development with HTML & CSS,Coursera,4 weeks,None,"html, css, web development",beginner,https://example.com/web-html-css
+Java Fundamentals,Udemy,5 weeks,None,"java, oops, programming basics",beginner,https://example.com/java-fund
+Data Analysis with Excel,LinkedIn Learning,3 weeks,Basic computer skills,"excel, data analysis",beginner,https://example.com/excel-data
+Python for Data Analysis,Coursera,5 weeks,Python basics,"python, pandas, numpy, data analysis",intermediate,https://example.com/py-data
+Statistics for Data Science,edX,6 weeks,High school math,"statistics, probability, data science",intermediate,https://example.com/stats-ds
+Data Visualization with Power BI,Udemy,4 weeks,Basic data concepts,"power bi, dashboards, data visualization",intermediate,https://example.com/powerbi
+Machine Learning A-Z,Udemy,8 weeks,"Python, math basics","machine learning, regression, classification",intermediate,https://example.com/ml-az
+Deep Learning Specialization,Coursera,12 weeks,Machine learning basics,"deep learning, neural networks, tensorflow",advanced,https://example.com/dl-spec
+Database Design & Normalization,Udemy,3 weeks,Intro SQL,"database design, normalization, sql",intermediate,https://example.com/db-design
+Full-Stack Web Development (MERN),Coursera,12 weeks,"HTML, CSS, JS basics","react, node, mongodb, full-stack",advanced,https://example.com/mern
+Java Spring Boot for APIs,Udemy,6 weeks,Java basics,"java, spring boot, rest api",intermediate,https://example.com/springboot
+Cloud Fundamentals (AWS),Coursera,4 weeks,Basic IT concepts,"aws, cloud computing, devops basics",beginner,https://example.com/aws-fund
+AWS Solutions Architect Associate Prep,Udemy,8 weeks,AWS fundamentals,"aws, cloud architecture, scaling",advanced,https://example.com/aws-arch
+Intro to Data Science,edX,6 weeks,Python or R basics,"data science, pandas, visualization",intermediate,https://example.com/ds-intro
+R Programming for Data Science,Coursera,4 weeks,Basic programming,"r, data analysis, ggplot2",intermediate,https://example.com/r-ds
+Power BI for Business Analytics,Udemy,5 weeks,Excel or basic data concepts,"power bi, dax, business intelligence",intermediate,https://example.com/powerbi-biz
+DSA in Java,Udemy,8 weeks,Java basics,"java, data structures, algorithms",intermediate,https://example.com/dsa-java
+System Design Fundamentals,Udemy,6 weeks,Basic backend knowledge,"system design, scalability, architecture",advanced,https://example.com/sys-design
+Intro to NLP,Coursera,5 weeks,"Python, ML basics","nlp, text processing, machine learning",advanced,https://example.com/nlp-intro
+Time Management & Productivity,LinkedIn Learning,2 weeks,None,"time management, productivity, soft skills",beginner,https://example.com/time-mgmt
+Communication Skills for IT,Coursera,3 weeks,None,"communication, soft skills, presentations",beginner,https://example.com/comm-skills
+Agile & Scrum Fundamentals,Udemy,3 weeks,Basic project knowledge,"agile, scrum, project management",intermediate,https://example.com/agile-scrum
+DevOps Essentials,edX,6 weeks,Linux & git basics,"devops, ci/cd, docker, linux",advanced,https://example.com/devops
